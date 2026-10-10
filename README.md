@@ -1,4 +1,7 @@
 # html-practice
-HTML öğrenirken yaptığım çalışmalar
-# İçerik
-- İlk Web Sayfam
+Burada HTML öğrenirken yaptığım çalışmalar içermektedir.
+## İçerik
+- İlgi Alanlarım
+- Hedeflerim
+- Öğrendiklerim ve Kendimi Geliştirmekte Olduğum Alanlar
+- Bağlantılarım
