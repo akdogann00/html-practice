@@ -1,15 +1,25 @@
 # HTML Practice
 
-This repository contains my practice projects and exercises as I learn HTML and improve my web development skills.
+This repository contains my HTML practice projects and exercises as I learn web development and improve my coding skills.
 
-## Contents
+# Contents
 
+- Personal Introduction
+- About Me
 - My Interests
 - My Goals
-- What I'm Learning and Improving
+- Flower Gallery
+- My Projects
 - My Links
-- Live Website
 
-## View my website
+# Technologies Used
+
+- HTML
+- CSS
+- C++
+
+# Live Website
+
+Visit My Website:
 
 https://akdogann00.github.io/html-practice/
