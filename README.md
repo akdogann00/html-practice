@@ -17,6 +17,7 @@ This repository contains my HTML practice projects and exercises as I learn web 
 - HTML
 - CSS
 - C++
+- SQL
 
 # Live Website
 
