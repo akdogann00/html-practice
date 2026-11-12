@@ -8,7 +8,7 @@ This repository contains my HTML practice projects and exercises as I learn web 
 - About Me
 - My Interests
 - My Goals
-- Flower Gallery
+- Flower & Other Pictures Gallery
 - My Projects
 - My Links
 
